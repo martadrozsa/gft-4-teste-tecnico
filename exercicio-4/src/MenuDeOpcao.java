@@ -47,7 +47,7 @@ public class MenuDeOpcao {
             System.exit(3);
         }
         else {
-            System.out.println("Essa opção não é válida! Selecione uma nova opção");
+            System.out.println("Essa opção não é válida!");
         }
     }
 
